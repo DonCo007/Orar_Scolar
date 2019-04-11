@@ -1,0 +1,11 @@
+1. Sa se implementeze un program care sa faca managementul studentilor din facultate.
+	Un student este identificat prin nume, adresa (strada, numar, oras, judet), data nasterii.
+	Studentii sunt organizati in grupe. Pe langa lista de studenti, fiecare grupa are un orar. Materiile vor fi intr-un enum, iar in orar vom avea pe fiecare zi a saptamanii (de luni pana vineri), celule care contin Materie, ora de inceput si ora de sfarsit.
+	Exemple de materii: OOP, ADS, LLDC, etc (Adaugati materii din orarul vostru astfel incat sa puteti crea chiar orarul grupei voastre).
+	Toate grupele trebuie sa fie intr-o clasa Facultate.
+	Programul trebuie sa permita:
+		- Afisarea tuturor studentilor unei grupe. Numele grupei citit de la tastatura.
+		- Numele tuturor studentilor care stau in afara Craiovei.
+		- Orarul unui student (numele studentului citit de la tastatura).
+		- Afisarea grupelor care au aceeasi materie in aceeasi zi, de la aceeasi ora.
+		- Afisarea tuturor studentilor nascuti inainte de o anumita data (folositi supraincarcarea operatorului < pentru clasa Data).

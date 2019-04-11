@@ -1,0 +1,13 @@
+﻿  Adresa.cpp
+  Data.cpp
+  Facultate.cpp
+c:\users\preda\source\repos\tema_3\tema_3\facultate.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\preda\source\repos\tema_3\tema_3\facultate.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\preda\source\repos\tema_3\tema_3\facultate.cpp(138): warning C4018: '<': signed/unsigned mismatch
+  Orar.cpp
+  Source.cpp
+c:\users\preda\source\repos\tema_3\tema_3\source.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Student.cpp
+  Generating Code...
+c:\users\preda\source\repos\tema_3\tema_3\orar.cpp(47): warning C4715: 'COrar::stringEnum': not all control paths return a value
+  Tema_3.vcxproj -> C:\Users\preda\source\repos\Tema_3\Debug\Tema_3.exe
